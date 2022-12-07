@@ -12,7 +12,7 @@
 
 [Week 7](https://mimicproject.com/code/3b7c96a7-8e8b-9560-db8a-2db32b4a81fc)
 
-[Week8.1.2](https://mimicproject.com/code/aa4c0518-4ac0-e13b-3add-bac3249f3bf9)
+[Week8.1](https://mimicproject.com/code/897d9ae7-e315-a0f3-2980-9d96a412a696)
 
 [Week8.1.2](https://mimicproject.com/code/e67c01fb-38fd-f236-0575-c8c4acfad49bv)
 
