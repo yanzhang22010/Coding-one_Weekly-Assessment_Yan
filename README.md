@@ -14,7 +14,7 @@
 
 [Week8.1](https://mimicproject.com/code/897d9ae7-e315-a0f3-2980-9d96a412a696)
 
-[Week8.1.2](https://mimicproject.com/code/e67c01fb-38fd-f236-0575-c8c4acfad49bv)
+[Week8.1.2](https://mimicproject.com/code/e67c01fb-38fd-f236-0575-c8c4acfad49b)
 
 [Week8.1.3](https://mimicproject.com/code/c79664b0-4222-86ce-26fd-2d86368e8739)
 
