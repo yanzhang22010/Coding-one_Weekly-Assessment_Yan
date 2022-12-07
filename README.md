@@ -1,6 +1,6 @@
 # Coding-one_Weekly-Assessment_Yan
 
-[Week1](https://mimicproject.com/code/b3fb5dbf-8152-1786-9b97-179fdd5e6143)
+[Week 1](https://mimicproject.com/code/b3fb5dbf-8152-1786-9b97-179fdd5e6143)
 
 [Week 2](https://mimicproject.com/code/e1805096-9eac-b6bf-9412-3262892dc327)
 
@@ -21,4 +21,5 @@
 [Week8.1.4](https://mimicproject.com/code/1a6abdf7-c6ad-b758-11dc-ef8f973857f3)
 
 [Week8.2.1](https://mimicproject.com/code/62757525-fb16-9b98-29b8-0a10b87f286f)
-[Week8.2.3](https://mimicproject.com/code/2da4351f-1418-c11d-d4f3-dea11f46a08d)
+
+[Week8.2.2](https://mimicproject.com/code/2da4351f-1418-c11d-d4f3-dea11f46a08d)
